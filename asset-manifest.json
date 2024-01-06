@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ag-grid.git/static/css/main.98902e5d.css",
-    "main.js": "/ag-grid.git/static/js/main.9b7c51cd.js",
-    "static/js/787.7abb1422.chunk.js": "/ag-grid.git/static/js/787.7abb1422.chunk.js",
-    "static/media/logo.svg": "/ag-grid.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ag-grid.git/index.html",
-    "main.98902e5d.css.map": "/ag-grid.git/static/css/main.98902e5d.css.map",
-    "main.9b7c51cd.js.map": "/ag-grid.git/static/js/main.9b7c51cd.js.map",
-    "787.7abb1422.chunk.js.map": "/ag-grid.git/static/js/787.7abb1422.chunk.js.map"
+    "main.css": "/ag-grid/static/css/main.98902e5d.css",
+    "main.js": "/ag-grid/static/js/main.cfad9f25.js",
+    "static/js/787.7abb1422.chunk.js": "/ag-grid/static/js/787.7abb1422.chunk.js",
+    "static/media/logo.svg": "/ag-grid/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ag-grid/index.html",
+    "main.98902e5d.css.map": "/ag-grid/static/css/main.98902e5d.css.map",
+    "main.cfad9f25.js.map": "/ag-grid/static/js/main.cfad9f25.js.map",
+    "787.7abb1422.chunk.js.map": "/ag-grid/static/js/787.7abb1422.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98902e5d.css",
-    "static/js/main.9b7c51cd.js"
+    "static/js/main.cfad9f25.js"
   ]
 }
